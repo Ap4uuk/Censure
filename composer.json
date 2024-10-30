@@ -1,5 +1,5 @@
 {
-    "name": "jzavorohina/censure",
+    "name": "ap4uuk/censure",
     "description": "Dirty russian/english words filter",
     "type": "library",
     "version": "1.4.0", 
@@ -30,7 +30,7 @@
         "word replacement",
         "replacer"
     ],
-    "homepage": "https://github.com/jzavorohina/censure",
+    "homepage": "https://github.com/ap4uuk/censure",
     "license": "Apache-2.0",
     "authors": [
         {
@@ -40,7 +40,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/jzavorohina/censure/issues"
+        "issues": "https://github.com/ap4uuk/censure/issues"
     },
     "require": {
         "php": ">=5.0.0"
